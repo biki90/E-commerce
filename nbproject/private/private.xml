@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/baralbiki/Documents/BikashFinance2/src/java/configuration/config.properties</file>
+            <file>file:/Users/baralbiki/Documents/BikashFinance2/src/java/dbHelpers/RegistrationQuery.java</file>
+            <file>file:/Users/baralbiki/Documents/BikashFinance2/src/java/configuration/PropertyReader.java</file>
+            <file>file:/Users/baralbiki/Documents/BikashFinance2/src/java/dbHelpers/BuyStockQuery.java</file>
+            <file>file:/Users/baralbiki/Documents/BikashFinance2/src/java/dbHelpers/CheckUserQuery.java</file>
+            <file>file:/Users/baralbiki/Documents/BikashFinance2/src/java/dbHelpers/CheckStockQuery.java</file>
+        </group>
+    </open-files>
+</project-private>
